@@ -1,0 +1,10 @@
+.IdCard {
+    display:flex;
+    flex-direction: row;
+}
+
+.pDiv {
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
